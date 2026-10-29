@@ -1,0 +1,29 @@
+﻿# Python environments
+.venv/
+venv/
+env/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.ppk
+secrets.json
+credentials.json
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies
+node_modules/
+
+# Temporary files
+*.tmp
+*.log

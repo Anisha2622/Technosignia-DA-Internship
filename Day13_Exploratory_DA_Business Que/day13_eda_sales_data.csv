@@ -1,0 +1,31 @@
+Order ID,Order Date,City,Category,Product,Sales Channel,Quantity,Unit Price (₹),Unit Cost (₹),Sales (₹),Cost (₹),Profit (₹)
+O-2001,2026-01-04,Pune,Electronics,Headphones,Online,2,1800,1200,3600,2400,1200
+O-2002,2026-01-07,Mumbai,Home,Desk Lamp,Store,1,1200,780,1200,780,420
+O-2003,2026-01-10,Satara,Office Supplies,Notebook Pack,Online,5,250,150,1250,750,500
+O-2004,2026-01-14,Goa,Electronics,Keyboard,Online,3,950,600,2850,1800,1050
+O-2005,2026-01-19,Pune,Home,Water Bottle,Store,4,450,260,1800,1040,760
+O-2006,2026-01-23,Mumbai,Electronics,Mouse,Online,5,600,350,3000,1750,1250
+O-2007,2026-02-02,Pune,Electronics,Headphones,Store,3,1800,1200,5400,3600,1800
+O-2008,2026-02-06,Nashik,Office Supplies,File Folder,Online,10,80,45,800,450,350
+O-2009,2026-02-11,Mumbai,Home,Desk Lamp,Online,2,1200,780,2400,1560,840
+O-2010,2026-02-17,Goa,Electronics,Keyboard,Store,4,950,600,3800,2400,1400
+O-2011,2026-02-21,Satara,Home,Water Bottle,Online,6,450,260,2700,1560,1140
+O-2012,2026-02-26,Pune,Office Supplies,Notebook Pack,Store,7,250,150,1750,1050,700
+O-2013,2026-03-03,Mumbai,Electronics,Headphones,Online,4,1800,1200,7200,4800,2400
+O-2014,2026-03-08,Pune,Home,Desk Lamp,Online,3,1200,780,3600,2340,1260
+O-2015,2026-03-12,Goa,Electronics,Mouse,Store,7,600,350,4200,2450,1750
+O-2016,2026-03-18,Nashik,Office Supplies,File Folder,Online,12,80,45,960,540,420
+O-2017,2026-03-22,Satara,Electronics,Keyboard,Online,2,950,600,1900,1200,700
+O-2018,2026-03-28,Mumbai,Home,Water Bottle,Store,8,450,260,3600,2080,1520
+O-2019,2026-04-02,Pune,Electronics,Headphones,Online,5,1800,1200,9000,6000,3000
+O-2020,2026-04-06,Mumbai,Office Supplies,Notebook Pack,Online,9,250,150,2250,1350,900
+O-2021,2026-04-12,Goa,Home,Desk Lamp,Store,2,1200,780,2400,1560,840
+O-2022,2026-04-17,Nashik,Electronics,Keyboard,Online,6,950,600,5700,3600,2100
+O-2023,2026-04-23,Pune,Electronics,Mouse,Store,9,600,350,5400,3150,2250
+O-2024,2026-04-28,Satara,Office Supplies,File Folder,Online,15,80,45,1200,675,525
+O-2025,2026-05-03,Mumbai,Electronics,Headphones,Store,2,1800,1200,3600,2400,1200
+O-2026,2026-05-09,Pune,Home,Water Bottle,Online,10,450,260,4500,2600,1900
+O-2027,2026-05-14,Goa,Electronics,Keyboard,Online,5,950,600,4750,3000,1750
+O-2028,2026-05-19,Nashik,Office Supplies,Notebook Pack,Store,11,250,150,2750,1650,1100
+O-2029,2026-05-24,Mumbai,Home,Desk Lamp,Online,4,1200,780,4800,3120,1680
+O-2030,2026-05-29,Pune,Electronics,Mouse,Online,10,600,350,6000,3500,2500

@@ -1,0 +1,11 @@
+order_id,product,category,quantity,unit_price,city
+1001,Notebook,Stationery,3,40.0,Pune
+1002,Pen,Stationery,10,10.0,Mumbai
+1003,Water Bottle,Accessories,2,150.0,Pune
+1004,Folder,Stationery,4,30.0,Satara
+1005,Lunch Box,Accessories,1,220.0,Mumbai
+1006,Notebook,Stationery,5,40.0,Pune
+1007,Pen,Stationery,8,10.0,
+1008,Water Bottle,Accessories,2,,Satara
+1009,Folder,Stationery,3,30.0,Pune
+1010,Lunch Box,Accessories,2,220.0,Mumbai
